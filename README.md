@@ -33,7 +33,6 @@
 * **烧录工具**: PZ-ISP
 * ![wx_camera_1768270375289](https://github.com/user-attachments/assets/8bba6b25-e605-4151-a89f-3101db8a9e8b)
 ![IMG_20260114_212457](https://github.com/user-attachments/assets/2353f9fc-2350-47b6-abab-20040f481000)
-<img width="780" height="774" alt="QQ_1768442040235" src="https://github.com/user-attachments/assets/2d656f40-0b8a-438b-a6c8-024dd0f81b28" />
 
 
 https://github.com/user-attachments/assets/afce0e40-d3ad-4d38-8e5a-d14a49340e6a
