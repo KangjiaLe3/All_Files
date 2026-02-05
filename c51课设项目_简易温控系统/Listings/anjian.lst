@@ -1,0 +1,36 @@
+C51 COMPILER V9.54   ANJIAN                                                                01/12/2026 15:27:30 PAGE 1   
+
+
+C51 COMPILER V9.54, COMPILATION OF MODULE ANJIAN
+OBJECT MODULE PLACED IN .\Objects\anjian.obj
+COMPILER INVOKED BY: C:\Keil_v5\C51\BIN\C51.EXE anjian.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\an
+                    -jian.lst) TABS(2) OBJECT(.\Objects\anjian.obj)
+
+line level    source
+
+   1          #include <REGX52.H>
+   2          #include "Delay.h"
+   3          #include "Nixie.h"
+   4          void anjian()
+   5          { 
+   6   1        while(1)
+   7   1        {
+   8   2          
+   9   2          Nixie(1,1);
+  10   2          Delay(200);
+  11   2        }
+  12   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =     18    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =   ----    ----
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)
